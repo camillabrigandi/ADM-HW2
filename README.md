@@ -7,12 +7,12 @@
    - Email addresses:
    - orsini.2099929@studenti.uniroma1.it
 
-3) Camilla Brigandì
+2) Camilla Brigandì
    - Matricola: 2055650
    - Email addresses:
    - brigandi.2055650@studenti.uniroma1.it
 
-5) Arman Feili:
+3) Arman Feili:
    - Matricola: 2101835
    - Email addresses:
    - armanfeili7@gmail.com
@@ -26,7 +26,9 @@ Besides these 2 datasets, we also used the files list.json and series.json, extr
 This file contains the answers to the following homework questions:
 - Reserche Questions (RQs)
 - AWS Question (AWSQ)
+- - There is also a folder named 'AWSQ' that contains a jupyter file with all explantion for solving thee AWS question part. There is also a screenshot for the status of the server using '$htop' command.
 - Algorithmic Question (AQ)
+- - in AQ folder, there is also a jupyter file dedicated to solve Algorithmic Question and calculate the Big O and the performance of the most optimal code.
 
 - CLQ: There is a folder named Command-line that contains both 'commandline_LLM.sh' and 'commandline_original.sh' files.
 - - The 'commandline_original.sh' file, includes 3 lines of code to retrive the data out of 'series.json' file.
