@@ -27,8 +27,11 @@ This file contains the answers to the following homework questions:
 - Reserche Questions (RQs)
 - AWS Question (AWSQ)
 - Algorithmic Question (AQ)
+- Command Line Question (CLQ)
 
-- CLQ: There are two files: 'commandline_LLM.sh' and 'commandline_original.sh'.
-- - The 'commandline_original.sh' file, includes 3 lines of code to retrive the data out of 'series.json' file.
-- - The 'commandline_LLM.sh' file, includes a set of code that sends an http reqiest as our prompt to the OpenAI API based on a API_KEY and get the result data as a text Apparently, we have successfully connected to the OpenAI API, and the prompt is functioning correctly, looping through the 'series.json' file. However, there seems to be an issue with reading and converting string values to integers.
+## commandline_LLM.sh
+The 'commandline_original.sh' file, includes 3 lines of code to retrive the data out of 'series.json' file.
+
+##  commandline_original.sh
+The 'commandline_LLM.sh' file, includes a set of code that sends an http reqiest as our prompt to the OpenAI API based on a API_KEY and get the result data as a text Apparently, we have successfully connected to the OpenAI API, and the prompt is functioning correctly, looping through the 'series.json' file. However, there seems to be an issue with reading and converting string values to integers.
 
